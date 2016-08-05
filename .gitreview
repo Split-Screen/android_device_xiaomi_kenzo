@@ -1,0 +1,5 @@
+[gerrit]
+host=review.pac-rom.com
+port=29418
+project=android_device_xiaomi_kenzo.git
+defaultbranch=pac-6.0
